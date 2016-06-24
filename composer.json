@@ -1,0 +1,24 @@
+{
+  "name" : "stest/test",
+  "description" : "SMISTER TEST FOR COMPOSER",
+  "keywords" : [
+    "test composer"
+  ],
+  "homepage" : "http://www.smister.com",
+  "license" : "smister",
+  "authors" : [
+    {
+      "name" : "smister",
+      "email" : "398009951@qq.com",
+      "homepage" : "http://www.smister.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "stest\\": ""
+    }
+  },
+  "require": {
+    "yiisoft/yii2": "*"
+  }
+}

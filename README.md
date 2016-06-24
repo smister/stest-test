@@ -1,2 +1,1 @@
-# stest-test
-test for composer
+test

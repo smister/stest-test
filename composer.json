@@ -1,5 +1,5 @@
 {
-  "name" : "stest/test",
+  "name" : "smistertest/smttest",
   "description" : "SMISTER TEST FOR COMPOSER",
   "keywords" : [
     "test composer"
@@ -15,7 +15,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "stest\\": ""
+      "smtest\\": ""
     }
   },
   "require": {

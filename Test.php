@@ -6,7 +6,7 @@
  * Time: 10:26 AM
  */
 
-namespace stest;
+namespace mstest;
 
 
 class Test
